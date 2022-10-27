@@ -1,7 +1,7 @@
 Hi 👋 My name is Kalpesh Dhoke
 ==============================
 
-Front-End Developer & Graphic Designer
+Front-End Developer & EX-Graphic Designer
 --------------------------------------
 
 * 🌍  I'm based in Ahmedabad, India
