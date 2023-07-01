@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I am a passionate Developer with a Bachelor's Degree in BCA (Bachelor of Computer Application). I know about developing software applications using popular technologies such as C, C++, Basic Python, HTML, CSS, and JavaScript. I strive to learn new technologies and i am keen to apply my skills to challenging projects. I am a highly motivated self-starter with a strong dedication to quality. I am confident that I can offer great value to any organization in terms of technical expertise and creative problem-solving.
+I am a passionate Developer with a Bachelor's Degree in BCA (Bachelor of Computer Application). I know about developing software applications using popular technologies such as C, C++, Basic Python, HTML, CSS, JavaScript, Typescript & React.js . I strive to learn new technologies and I am keen to apply my skills to challenging projects. I am a highly motivated self-starter with a strong dedication to quality. I am confident that I can offer great value to any organization in terms of technical expertise and creative problem-solving.
 
 * 🌍  I'm based in Ahmedabad
-* ✉️  You can contact me at [kalpeshdhoke740@outlook.com](mailto:kalpeshdhoke740@outlook.com)
+* ✉️  You can contact me at [kalpeshdhoke7@gmail.com](mailto:kalpeshdhoke7@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly Batman... but don't tell anyone.
 
