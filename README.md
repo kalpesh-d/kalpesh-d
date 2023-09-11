@@ -15,9 +15,6 @@ I am a passionate Developer with a Master's Degree in MCA. I know about developi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kalpesh-d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
